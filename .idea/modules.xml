@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstraction/abstraction.iml" filepath="$PROJECT_DIR$/abstraction/abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractionexercise/abstractionexercise.iml" filepath="$PROJECT_DIR$/abstractionexercise/abstractionexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractkeyword/abstractkeyword.iml" filepath="$PROJECT_DIR$/abstractkeyword/abstractkeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/abstractvsinterface/abstractvsinterface.iml" filepath="$PROJECT_DIR$/abstractvsinterface/abstractvsinterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arithmeticoperator/arithmeticoperator.iml" filepath="$PROJECT_DIR$/arithmeticoperator/arithmeticoperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/arrays/arrays.iml" filepath="$PROJECT_DIR$/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assignmentoperator/assignmentoperator.iml" filepath="$PROJECT_DIR$/assignmentoperator/assignmentoperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicsyntax/basicsyntax.iml" filepath="$PROJECT_DIR$/basicsyntax/basicsyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculator/calculator.iml" filepath="$PROJECT_DIR$/calculator/calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/conditions/conditions.iml" filepath="$PROJECT_DIR$/conditions/conditions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/construct/construct.iml" filepath="$PROJECT_DIR$/construct/construct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/divein/divein.iml" filepath="$PROJECT_DIR$/divein/divein.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dowhileloop/dowhileloop.iml" filepath="$PROJECT_DIR$/dowhileloop/dowhileloop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulation/encapsulation.iml" filepath="$PROJECT_DIR$/encapsulation/encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/encapsulationexercise/encapsulationexercise.iml" filepath="$PROJECT_DIR$/encapsulationexercise/encapsulationexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exceptionhandling/exceptionhandling.iml" filepath="$PROJECT_DIR$/exceptionhandling/exceptionhandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/exercises.iml" filepath="$PROJECT_DIR$/.idea/exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finalkeyword/finalkeyword.iml" filepath="$PROJECT_DIR$/finalkeyword/finalkeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/finallyblock/finallyblock.iml" filepath="$PROJECT_DIR$/finallyblock/finallyblock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foreachloop/foreachloop.iml" filepath="$PROJECT_DIR$/foreachloop/foreachloop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/foreachloopexercise/foreachloopexercise.iml" filepath="$PROJECT_DIR$/foreachloopexercise/foreachloopexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forloop/forloop.iml" filepath="$PROJECT_DIR$/forloop/forloop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/forloopexercise/forloopexercise.iml" filepath="$PROJECT_DIR$/forloopexercise/forloopexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloworld/helloworld.iml" filepath="$PROJECT_DIR$/helloworld/helloworld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifelseifstatement/ifelseifstatement.iml" filepath="$PROJECT_DIR$/ifelseifstatement/ifelseifstatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifelsestatement/ifelsestatement.iml" filepath="$PROJECT_DIR$/ifelsestatement/ifelsestatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ifstatement/ifstatement.iml" filepath="$PROJECT_DIR$/ifstatement/ifstatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritances/inheritances.iml" filepath="$PROJECT_DIR$/inheritances/inheritances.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isprime/isprime.iml" filepath="$PROJECT_DIR$/isprime/isprime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logicaloperator/logicaloperator.iml" filepath="$PROJECT_DIR$/logicaloperator/logicaloperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/methodoverriding/methodoverriding.iml" filepath="$PROJECT_DIR$/methodoverriding/methodoverriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minmax/minmax.iml" filepath="$PROJECT_DIR$/minmax/minmax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modarraylist/modarraylist.iml" filepath="$PROJECT_DIR$/modarraylist/modarraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modifiers/modifiers.iml" filepath="$PROJECT_DIR$/modifiers/modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multiarrays/multiarrays.iml" filepath="$PROJECT_DIR$/multiarrays/multiarrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nested/nested.iml" filepath="$PROJECT_DIR$/nested/nested.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectorientedprogramming/objectorientedprogramming.iml" filepath="$PROJECT_DIR$/objectorientedprogramming/objectorientedprogramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ownexception/ownexception.iml" filepath="$PROJECT_DIR$/ownexception/ownexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polymorphism/polymorphism.iml" filepath="$PROJECT_DIR$/polymorphism/polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relationaloperator/relationaloperator.iml" filepath="$PROJECT_DIR$/relationaloperator/relationaloperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scan/scan.iml" filepath="$PROJECT_DIR$/scan/scan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statementexercises/statementexercises.iml" filepath="$PROJECT_DIR$/statementexercises/statementexercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/statickeyword/statickeyword.iml" filepath="$PROJECT_DIR$/statickeyword/statickeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stringcompare/stringcompare.iml" filepath="$PROJECT_DIR$/stringcompare/stringcompare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronizedkeyword/synchronizedkeyword.iml" filepath="$PROJECT_DIR$/synchronizedkeyword/synchronizedkeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ternary/ternary.iml" filepath="$PROJECT_DIR$/ternary/ternary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/throwsexception/throwsexception.iml" filepath="$PROJECT_DIR$/throwsexception/throwsexception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unaryoperator/unaryoperator.iml" filepath="$PROJECT_DIR$/unaryoperator/unaryoperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whileloop/whileloop.iml" filepath="$PROJECT_DIR$/whileloop/whileloop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whileloopexercise/whileloopexercise.iml" filepath="$PROJECT_DIR$/whileloopexercise/whileloopexercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wrapper/wrapper.iml" filepath="$PROJECT_DIR$/wrapper/wrapper.iml" />
+    </modules>
+  </component>
+</project>
